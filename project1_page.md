@@ -67,7 +67,7 @@ My best model looked at only a single year's worth of statistics and had trainin
 Using Tableau I was able to visualize different relationships within the data.
 You can check these visual out at: https://public.tableau.com/profile/cory.rutkowski#!/vizhome/home_state_2013/coll_comb
 
-<img src="/images/project1_visuals.png?raw=true"/>
+<img src="images/project1_visual.png?raw=true"/>
 
 
 ## Conclusions:
