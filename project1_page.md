@@ -1,6 +1,8 @@
 # Analysis and Visualization of NFL Draft Prospects
 Project by: Cory Rutkowski
 
+<img src="images/nfl_map.png?raw=true"/>
+
 ## Problem Statement
 
 Using SQL and supervised learning models can you predict and visualize the NFL draft process for collegiate football players? The NFL Draft has become a huge spectacle every year with millions of dollars on the line for prospective athletes.
@@ -68,6 +70,7 @@ Using Tableau I was able to visualize different relationships within the data.
 You can check these visual out at: https://public.tableau.com/profile/cory.rutkowski#!/vizhome/home_state_2013/coll_comb
 
 <img src="images/project1_visual.png?raw=true"/>
+<img src="images/project1_uniforms.png?raw=true"/>
 
 
 ## Conclusions:
