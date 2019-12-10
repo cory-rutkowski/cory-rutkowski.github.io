@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Analysis and Visualization of NFL Draft Prospects](/sample_page)
+<img src="images/project1_thumbnail.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Using Machine Learning and NLP to Try to Catch 'Em All](/pdf/sample_presentation.pdf)
+<img src="images/project2_thumbnail.png?raw=true"/>
+
+---
+[Leveraging Social Media to Map Natural Disasters](http://example.com/)
+<img src="images/project3_thumbnail.png?raw=true"/>
 
 ---
 
