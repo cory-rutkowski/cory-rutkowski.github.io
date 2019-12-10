@@ -50,25 +50,6 @@ Our modeling process was broken into three main steps. First we had to create a 
 
 We utilized a GridSearchCV to generate optimal parameters for our models. We excluded english stop-words from our models to decrease noise. We used a lemmatizing function to pass through the vectorizer to focus just on the roots of the words. A parameter was set as well to include not use the idf (CountVectorizer).
 
-Best model features:
-
-1.Random Forests
-  - rf__max_depth: 6
-  - rf__max_features: None
-  - rf__n_estimators: 5
-  - tf__max_features: 3000
-  - tf__ngram_range: (1, 2),
-  - tf__stop_words: 'english'
-  - tf__use_idf: True 
-
-2. Naive Bayes
-  - nb__alpha: 1
-  - tf__max_features: 5000
-  - tf__ngram_range: (1, 2)
-  - tf__stop_words: 'english'
-  - tf__use_idf': False
-
-                
 #### Model Scores
 
 Baseline accuracy for the dataset was 81%
@@ -113,11 +94,11 @@ Example maps
 
 Zoomed out map of Houston with clusters
 
-![Zoomed out map of Houston with clusters](Images/map_zo.PNG)
+![Zoomed out map of Houston with clusters]<img src="images/map_zo.pgn?raw=true"/>
 
 Zoomed in map with specific location and tooltip
 
-![Zoomed in map with specific location and tooltip](Images/map_zi.PNG)
+![Zoomed in map with specific location and tooltip]<img src="images/map_zi.png?raw=true"/>
 
 
 ### Constraints/Limitations
