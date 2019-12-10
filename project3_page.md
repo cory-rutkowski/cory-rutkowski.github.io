@@ -94,11 +94,11 @@ Example maps
 
 Zoomed out map of Houston with clusters
 
-![Zoomed out map of Houston with clusters]<img src="images/map_zo.pgn?raw=true"/>
+<img src="images/map_zo.png?raw=true"/>
 
 Zoomed in map with specific location and tooltip
 
-![Zoomed in map with specific location and tooltip]<img src="images/map_zi.png?raw=true"/>
+<img src="images/map_zi.png?raw=true"/>
 
 
 ### Constraints/Limitations
