@@ -23,9 +23,9 @@
 
 ---
 
-## Category Name 2
+## Blog Posts
 
-- [Blog Post #1](https://medium.com/@cory.rutkowski/my-long-and-winding-data-science-journey-701921ad6c0d)
+- [My Long and Winding Data Science Journey](https://medium.com/@cory.rutkowski/my-long-and-winding-data-science-journey-701921ad6c0d)
 ---
 
 
