@@ -4,19 +4,19 @@
 
 ## Projects
 
-[Analysis and Visualization of NFL Draft Prospects](/sample_page)
+[Analysis and Visualization of NFL Draft Prospects](/project1_page.md)
 <br>
 <img src="images/project1_thumbnail.png?raw=true"/>
 <br>
 
 ---
-[Using Machine Learning and NLP to Try to Catch 'Em All](/pdf/sample_presentation.pdf)
+[Using Machine Learning and NLP to Try to Catch 'Em All](/project2_page.md)
 <br>
 <img src="images/project2_thumbnail.png?raw=true"/>
 <br>
 
 ---
-[Leveraging Social Media to Map Natural Disasters](http://example.com/)
+[Leveraging Social Media to Map Natural Disasters](/project3_page.md)
 <br>
 <img src="images/project3_thumbnail.png?raw=true"/>
 <br>
