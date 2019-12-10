@@ -59,3 +59,5 @@ Test Score: 91.8% Accuracy
     - Questions/Suggestions/Comments could be entered in one location on company website and model could sort and send them to correct forum/department. correctly leads to a more confident user base
     - Correct sorting would lead to a more confident user base. Extra user trust could allow increased knowledge sharing between differing Pokemon communities
     - Swelling confidence, trust, and community interaction ultimately should bring about higher revenue! 
+    
+[Back to Home Page](cory-rutkowski.github.io)
