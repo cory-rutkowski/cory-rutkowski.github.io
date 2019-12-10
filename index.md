@@ -12,13 +12,13 @@
 ---
 [Using Machine Learning and NLP to Try to Catch 'Em All](/project2_page.md)
 <br>
-<img src="images/project2_thumbnail.png?raw=true"/>
+<img src="images/project3_thumbnail.png?raw=true"/>
 <br>
 
 ---
 [Leveraging Social Media to Map Natural Disasters](/project3_page.md)
 <br>
-<img src="images/project3_thumbnail.png?raw=true"/>
+<img src="images/project2_thumbnail.png?raw=true"/>
 <br>
 
 ---
