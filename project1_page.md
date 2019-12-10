@@ -86,6 +86,6 @@ This model could be beneficial in the future for collegiate athletes to try to d
 
 - [Draft Results History](http://www.drafthistory.com/index.php/years/)
 - [Kaggle Collegiate Football Statistics Dataset](https://www.kaggle.com/mhixon/college-football-statistics)
-<br>
+
 [Back to Home Page](cory-rutkowski.github.io)
-<br>
+
