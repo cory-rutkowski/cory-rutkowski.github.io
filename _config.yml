@@ -1,11 +1,14 @@
 title: Cory Rutkowski # your name (or website title) here
 logo: "/images/profile.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  About Me 
+  <br>Data Scientist with Interest in Gaming Industry and Sports. Also a huge cat lover.<br>
+  <br>Looking for a position in Data Science or Data Analytics that will allow on the job learning 
+  as well as an opportunity for me to add value to an organization. A friendly, charismatic professional 
+  with a strong blend of experience in research and data analysis with interest in the Gaming Industry. 
+  2+ years of experience in the clinical research field. My strong one-on-one consultation/communication skills 
+  and strong motivation to succeed have allowed me to consistently be a valuable member of any organization.<br>
+  <a href="https://www.linkedin.com/in/coryrutkowski/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-midnight
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
