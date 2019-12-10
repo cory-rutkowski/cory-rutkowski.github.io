@@ -2,7 +2,7 @@
 
 ---
 
-### Projects
+## Projects
 
 [Analysis and Visualization of NFL Draft Prospects](/sample_page)
 <br>
@@ -23,9 +23,9 @@
 
 ---
 
-### Category Name 2
+## Category Name 2
 
-- [Blog Posts](https://medium.com/@cory.rutkowski/my-long-and-winding-data-science-journey-701921ad6c0d)
+- [Blog Post #1](https://medium.com/@cory.rutkowski/my-long-and-winding-data-science-journey-701921ad6c0d)
 ---
 
 
