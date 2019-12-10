@@ -77,7 +77,7 @@ This model could be beneficial in the future for collegiate athletes to try to d
 
 ### Slides
 
-[Presentation] (https://docs.google.com/presentation/d/1DlI68sgSFOUmQatPLTInHjYeIakYXF0UTzCwsduH4-E/edit?usp=sharing)
+- [Presentation](https://docs.google.com/presentation/d/1DlI68sgSFOUmQatPLTInHjYeIakYXF0UTzCwsduH4-E/edit?usp=sharing)
 
 ### References
 
