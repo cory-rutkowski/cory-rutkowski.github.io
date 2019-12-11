@@ -116,6 +116,10 @@ Based on our results this project is something that could be implemented into fu
 
 You can view the [presentation slides](https://docs.google.com/presentation/d/10ZApvLVwmNZgL5VeSmSjSGsa6tB28ApVWLPaOXeqW7s/edit?usp=sharing)
 
+### Full Project Access
+
+- [Github Repository](https://github.com/Ishan16D/TwitterDisasterMapping)
+
 ### References
 
 - [Geolocational Tweet Information](https://codete.com/blog/observing-world-tweeting-tendencies-in-real-time-part-2/)
