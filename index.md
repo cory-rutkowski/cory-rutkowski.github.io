@@ -6,6 +6,7 @@
   My strong one-on-one consultation/communication skills and strong motivation to succeed have allowed me to consistently be a 
   valuable member of any organization.<br>
   <a href="https://www.linkedin.com/in/coryrutkowski/">View My LinkedIn Profile</a> 
+  [About Me](/about_me.md)
 
 
 # Portfolio
