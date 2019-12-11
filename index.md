@@ -1,3 +1,14 @@
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>Data Scientist with Interest in Gaming Industry and Sports. Also a huge cat lover.<br>
+  <img src="images/profile.jpg?raw=true"/>
+  <br>Looking for a position in Data Science or Data Analytics that will allow on the job learning 
+  as well as an opportunity for me to add value to an organization. I'm a friendly, charismatic professional 
+  with a strong blend of experience in clinical research and data analysis with an interest in the Sports and Gaming Industries. 
+  My strong one-on-one consultation/communication skills and strong motivation to succeed have allowed me to consistently be a 
+  valuable member of any organization.<br>
+  <a href="https://www.linkedin.com/in/coryrutkowski/">View My LinkedIn Profile</a> 
+
+
 # Portfolio
 
 ---
