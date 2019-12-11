@@ -1,5 +1,5 @@
   ### Data Scientist with Interest in Gaming Industry and Sports. Also a huge cat lover.
-  <img src="images/profile.jpg?raw=true"/>
+  <img src="images/profile.jpg"/>
   <br>Looking for a position in Data Science or Data Analytics that will allow on the job learning 
   as well as an opportunity for me to add value to an organization. I'm a friendly, charismatic professional 
   with a strong blend of experience in clinical research and data analysis with an interest in the Sports and Gaming Industries. 
