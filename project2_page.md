@@ -60,4 +60,8 @@ Test Score: 91.8% Accuracy
     - Correct sorting would lead to a more confident user base. Extra user trust could allow increased knowledge sharing between differing Pokemon communities
     - Swelling confidence, trust, and community interaction ultimately should bring about higher revenue! 
     
+### References
+
+- [Github Repository](https://git.generalassemb.ly/cory-rutkowski/project_3)
+    
 [Back to Home Page](cory-rutkowski.github.io)
