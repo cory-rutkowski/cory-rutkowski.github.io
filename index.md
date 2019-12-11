@@ -46,8 +46,8 @@ I created a binary classification model to accurately predict which subreddit a 
 The final model that I ended up using was: SVM using TF-IDF and Lemmatized Data Train Score: 99.8% Accuracy Test Score: 91.8% Accuracy
 
 Some of the main takeaways of my models were:
-Test score: 91.8% showed great improvement over Baseline Accuracy Score: 50%
-Of all of the best fit models created, half used English stop-words while other half didn’t use any stop words. I'm not super surprised by this since I was dealing with data that revolved around the world of Pokémon, where many of the names/places mentioned aren't found in the English language.
+- Test score: 91.8% showed great improvement over Baseline Accuracy Score: 50%
+- Of all of the best fit models created, half used English stop-words while other half didn’t use any stop words. I'm not super surprised by this since I was dealing with data that revolved around the world of Pokémon, where many of the names/places mentioned aren't found in the English language.
 <br>
 
 ---
